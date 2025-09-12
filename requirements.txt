@@ -1,0 +1,7 @@
+yt
+numpy
+matplotlib
+scipy
+h5py
+unyt
+Pillow
