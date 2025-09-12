@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+src/cosmo_analysis.egg-info/PKG-INFO
+src/cosmo_analysis.egg-info/SOURCES.txt
+src/cosmo_analysis.egg-info/dependency_links.txt
+src/cosmo_analysis.egg-info/requires.txt
+src/cosmo_analysis.egg-info/top_level.txt
