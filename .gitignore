@@ -1,1 +1,16 @@
+# virtual enviroments
 .venv/
+venv/
+
+# packaging artifacts
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.egg-link
+
+# editable/install metadata placed by setuptools
+src/*.egg-info/
+
+
